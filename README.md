@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuel-famorim
 -  Brasil / Minerio 🔺
 - 🖥️ Téc de Informática para Internet - IFNMG Campus Januária 
-- 📚Estudante Ciência da Computação - UFU
+- 📚 Aprovado Ciência da Computação - UFU
 - 👨‍💻Emprendedor: Sly Design
 - ig:@samuelf.amorim
 
