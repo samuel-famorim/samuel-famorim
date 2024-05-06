@@ -2,7 +2,9 @@
 -  Brasil / Minerio 🔺
 - 🖥️ Téc de Informática para Internet - IFNMG Campus Januária 
 - 📚Estudante Ciência da Computação - UFU
-- ▫ ig:@samuelf.amorim
+- 👨‍💻Emprendedor: Sly Design
+- ig:@samuelf.amorim
+
 - Estudados: HTML, CSS, PHP
 - Aprendendo: python, JavaScript
 
