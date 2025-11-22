@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @samuel-famorim
--  Brasil / Minerio 🔺
 - 🖥️ Téc de Informática para Internet - IFNMG Campus Januária 
 - 📚 Cursando Ciência da Computação - Universidade Federal de Uberlândia 
 - ig:@samuelf.amorim
